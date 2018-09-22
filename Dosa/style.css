@@ -1,0 +1,21 @@
+
+.about{
+	color: royalblue ;
+}
+.a{
+	color: green;
+	text-align: center;
+}
+.c{
+	color: green;
+	text-align: center;
+	margin-left: 300px;
+}
+.d{
+	float: right;
+}
+.e{
+	height:200px;
+	width: 200px
+	border:1px solid black;
+}
