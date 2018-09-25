@@ -1,4 +1,5 @@
 
+
 .about{
 	color: royalblue ;
 }
@@ -14,8 +15,35 @@
 .d{
 	float: right;
 }
-.e{
-	height:200px;
-	width: 200px
-	border:1px solid black;
+
+ .f{
+ 	float: right;
 }
+.g{
+	float: right;
+	
+}
+
+
+  .container{
+  	padding: 100px;
+  	color: white;
+  	font-family: sans-serif;
+  	background-color: green;
+  	text-align: center;
+  	position: relative;
+  	height: 300px;
+  	  }
+.main{
+	text-align: center;
+	font-size: 70px;
+  }
+  .e{
+  	float: left;
+  }
+  .h{
+  	float: left;
+  }
+  .i{
+  	float: left;
+  }
